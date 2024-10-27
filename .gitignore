@@ -1,0 +1,5 @@
+# Ignore local configuration
+.config.ini
+
+# Ignore log files
+logs/Log_*.txt
